@@ -13,6 +13,11 @@ The dataset was collected from 30 persons(referred as subjects in this dataset),
 # Results
 The model classification report
 ![Alt text](https://github.com/marcusnk237/lstm_har/blob/main/report.jpg)
+
+
+
+
+
 We were able to achieve an accuracy of 95%. The loss value measured is 0.1142
 
 # References:
